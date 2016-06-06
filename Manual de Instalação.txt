@@ -1,0 +1,8 @@
+﻿
+Manual
+
+1 - Coloque a pasta portal dentro de seu localhost.
+
+2 - Crie um novo banco de dados(Postgres) com nome de “portalnoticias” de acordo com o sql descrito no arquivo "banco.sql" da pasta portal.
+
+4 - Depois na pasta classes, configure o arquivo database.class.php, com seus dados do banco(user e pass). 

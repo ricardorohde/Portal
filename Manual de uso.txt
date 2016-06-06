@@ -1,0 +1,22 @@
+
+1- Na pagina HOME
+	Opção de filtro ao lado direito da tela(Podendo bsucar por nome)
+	Opção de RSS
+	Listagem das noticias na home
+	Opção de cadastrar portal, noticias e importar xml.
+	RSS
+
+2- Cadastro de portais.
+	Cadastra os portais desejados
+	Pode excluir e editar os portais
+	Listagem a baixo dos portais ja cadastrados
+
+3- Cadastro de noticias
+	Cadastra as noticias desejadas
+	Pode excluir e editar as noticias
+	Listagem a baixo das noticias ja cadastradas
+
+4- Importar noticias xml.
+	Consegue realizar a importação de um xml valido.
+
+
